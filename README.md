@@ -21,8 +21,8 @@ Python, Pandas, NumPy, Yahoo Finance (yfinance)
 - Downloaded datasets for stocks
 
 ## 📂 Structure
-notebooks/ # Jupyter notebooks
-data/ # Downloaded stock data
+- notebooks/ # Jupyter notebooks
+- data/ # Downloaded stock data
 
 ## 📌 Notes
 This repo can be expanded with forecasting models (ARIMA, LSTM, etc.) or portfolio optimization tools.
